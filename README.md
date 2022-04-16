@@ -3,7 +3,7 @@ I'm Cezar, Romanian CS Student and solo GameDev enthusiast!
 
 ### Programming languages 💻
 - C
-- C#
+- C++
 - Python
 
 ### GameDev 🎮
